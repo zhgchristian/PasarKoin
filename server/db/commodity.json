@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Bitcoin",
+        "symbol":"BTCBIDR",
+        "interestRate": 0.003,
+        "imageUrl": "https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=025"
+
+    },
+    {
+        "name": "Ethereum",
+        "symbol": "ETHBIDR",
+        "interestRate": 0.0063,
+        "imageUrl": "https://cryptologos.cc/logos/ethereum-eth-logo.png?v=025"
+    },
+    {
+        "name": "Binance Coin",
+        "symbol": "BNBBIDR",
+        "interestRate": 0.0051,
+        "imageUrl": "https://cryptologos.cc/logos/bnb-bnb-logo.png?v=025"
+    },
+    {
+        "name": "Solana",
+        "symbol": "SOLBIDR",
+        "interestRate": 0.009,
+        "imageUrl": "https://cryptologos.cc/logos/solana-sol-logo.png?v=025"
+    },
+    {
+        "name": "Cardano",
+        "symbol":"ADABIDR",
+        "interestRate": 0.017,
+        "imageUrl": "https://cryptologos.cc/logos/cardano-ada-logo.png?v=025"
+    },
+    {
+        "name": "Polkadot",
+        "symbol":"DOTBIDR",
+        "interestRate": 0.01,
+        "imageUrl": "https://cryptologos.cc/logos/polkadot-new-dot-logo.png?v=025"
+    },
+    {
+        "name": "Polygon",
+        "symbol": "MATICBIDR",
+        "interestRate": 0.012,
+        "imageUrl": "https://cryptologos.cc/logos/polygon-matic-logo.png?v=025"
+    },
+    {
+        "name": "Ripple",
+        "symbol": "XRPBIDR",
+        "interestRate": 0.005,
+        "imageUrl": "https://cryptologos.cc/logos/xrp-xrp-logo.png?v=025"
+    },
+    {
+        "name": "Dogecoin",
+        "symbol": "DOGEBIDR",
+        "interestRate": 0.003,
+        "imageUrl": "https://cryptologos.cc/logos/dogecoin-doge-logo.png?v=025"
+    },
+    {
+        "name": "Ziliqa",
+        "symbol": "ZILBIDR",
+        "interestRate": 0.0043,
+        "imageUrl": "https://cryptologos.cc/logos/zilliqa-zil-logo.png?v=025"
+    }
+]
